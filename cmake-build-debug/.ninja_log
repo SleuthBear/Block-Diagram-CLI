@@ -1,0 +1,9 @@
+# ninja log v6
+5	456	1725927059858872902	CMakeFiles/untitled.dir/LoopBack.cpp.o	e93180ce0e103279
+3	362	1725927309185956134	CMakeFiles/untitled.dir/VArrow.cpp.o	384b60b732ecd7c
+2	70	1733781109581016398	build.ninja	f4eacbc4f109ca54
+6	174	1725927059859177676	CMakeFiles/untitled.dir/keyValues.cpp.o	1aaa1dfb38bf6c35
+3	555	1725927309185519285	CMakeFiles/untitled.dir/main.cpp.o	fda93e975d5f702a
+5	456	1725927059858614959	CMakeFiles/untitled.dir/Block.cpp.o	4ef55f79a93fef2e
+6	470	1725927093399037261	CMakeFiles/untitled.dir/Arrow.cpp.o	df9130971b0a8d4
+555	650	1725927309737900682	untitled	766adc179ac711fa
